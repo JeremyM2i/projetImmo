@@ -8,4 +8,3 @@ gunicorn
 requests
 unidecode
 pickle-mixin
-pyarrow
