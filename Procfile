@@ -1,0 +1,1 @@
+web: gunicorn --timeout 50 app:server
